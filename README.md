@@ -44,8 +44,8 @@
   
 ---
 
-<!-- <p align="center">
+<p align="center">
 <a href="https://github.com/Prajwal-Adhikari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-Adhikari&theme=tokyonight">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-Adhikari&theme=tokyonight">
 </a>                         
-</p> -->
+</p> 
