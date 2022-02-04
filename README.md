@@ -34,3 +34,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+---
+ 
+ <p align="center">
+<a href="https://github.com/Prajwal-Adhikari">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prajwal-Adhikari
+&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
+</a>
+</p>
