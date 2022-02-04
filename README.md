@@ -1,5 +1,6 @@
 <p align = "center"> <b> Hi 👋 I am Prajwal Adhikari. <b> </p>
-
+<p align = "center"> <b> Learner | Developer | Tech enthusiast <b> </p>
+  
 <p align="center" <a href="https://www.linkedin.com/in/prajwal-adhikari-9026381a6/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1405046989927051268/u8XhFEGT_400x400.jpg" height=200px width = 200x/></a> </p>
 
 ---
