@@ -66,13 +66,8 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Prajwal-Adhikari&show_icons=true&line_height=40&count_private=true&theme=tokyonight" alt="Prajwal's GitHub Stats" />
 </a>
 
-<br>
-<br>
-
 ---
 
-<br>
-  
 ## CONTACT ME
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <a href = "https://www.linkedin.com/in/prajwal-adhikari-9026381a6/">
