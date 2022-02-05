@@ -69,7 +69,9 @@
 ---
 
 ## CONTACT ME
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+<!-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:prazolppp@gmail.com)](mailto:prazolppp@gmail.com)
 <a href = "https://www.linkedin.com/in/prajwal-adhikari-9026381a6/">
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
