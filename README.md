@@ -6,7 +6,7 @@
 <p align="center" <a href="https://pbs.twimg.com/profile_images/1405046989927051268/u8XhFEGT_400x400.jpg/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1405046989927051268/u8XhFEGT_400x400.jpg" height=200px width = 200x style="border-radius:50%"/></a> </p>
 <p align="center">Either you run the code or the code runs you. :computer: </p>
 
-<p align="center"><b>Computer Science Undergrad at <a href="https://ku.edu.np/"> Kathmandu University </a></b | Class of 2020><br />I am <a href="https://www.coursera.org/account/accomplishments/certificate/H53CEXLJSL45" target="_blank"> certified python developer</a> and a proactive learner, developer who believes in coding for good. I am commited in building a greater and a safer future where technologies and humankind live truly interdependently.  </p
+<p align="center"><b>Computer Science Undergrad at <a href="https://ku.edu.np/"> Kathmandu University </a></b | Class of 2020><br />I am <a href="https://www.coursera.org/account/accomplishments/certificate/H53CEXLJSL45" target="_blank"> certified python developer</a> and a proactive learner, developer who believes in coding for good. I am commited in building a greater and a safer future where technologies and humankind live truly interdependently.  </p>
 
 ---
 # BIO
@@ -69,7 +69,15 @@
 <br>
 <br>
 
-  ---
+---
+  
+## FUN
+> {https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,racist,sexist,explicit&format=txt&type=single}
+ 
+_Joke from [JokeAPI](https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,racist,sexist,explicit&format=txt&type=single)_
+
+Check back at the top of the hour for a new quote!
+<br>
   
 ## CONTACT ME
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
