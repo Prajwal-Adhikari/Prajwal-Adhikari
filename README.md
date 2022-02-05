@@ -70,13 +70,7 @@
 <br>
 
 ---
-  
-## FUN
-> {https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,racist,sexist,explicit&format=txt&type=single}
- 
-_Joke from [JokeAPI](https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,racist,sexist,explicit&format=txt&type=single)_
 
-Check back at the top of the hour for a new quote!
 <br>
   
 ## CONTACT ME
@@ -96,3 +90,8 @@ Check back at the top of the hour for a new quote!
  <a href = "https://github.com/Prajwal-Adhikari">
  <img height="28em" src="https://img.shields.io/github/followers/Prajwal-Adhikari?label=Follow&style=social)](https://github.com/Prajwal-Adhikari">
 </a>
+<br />
+## LEAVE WITH A CHUCKLE
+ 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
