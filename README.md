@@ -3,10 +3,10 @@
 
 
   
-<p align="center" <a href="https://www.linkedin.com/in/prajwal-adhikari-9026381a6/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1405046989927051268/u8XhFEGT_400x400.jpg" height=200px width = 200x/></a> </p>
+<p align="center" <a href="https://pbs.twimg.com/profile_images/1405046989927051268/u8XhFEGT_400x400.jpg/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1405046989927051268/u8XhFEGT_400x400.jpg" height=200px width = 200x style="border-radius:50%"/></a> </p>
 <p align="center">Either you run the code or the code runs you. :computer: </p>
 
-<p align="center"><b>Computer Science Undergrad at <a href="https://ku.edu.np/"> Kathmandu University </a></b | Class of 2020></p>
+<p align="center"><b>Computer Science Undergrad at <a href="https://ku.edu.np/"> Kathmandu University </a></b | Class of 2020><br />I am <a href="https://www.coursera.org/account/accomplishments/certificate/H53CEXLJSL45" target="_blank"> certified python developer</a> and a proactive learner, developer who believes in coding for good. I am commited in building a greater and a safer future where technologies and humankind live truly interdependently.  </p
 
 ---
 # BIO
@@ -24,28 +24,67 @@
   
   
 
-### Languages and Tools:
+## LANGUAGES AND TOOLS
 
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/c/c.png" />
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/c/c.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/css/css.png"/>
+<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/javascript/javascript.png"/>  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 ---
 
-<p align="center">
-<a href="https://github.com/Prajwal-Adhikari">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prajwal-Adhikari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
+## 📌 PINNED REPOSITORIES  
+  
+<a href="https://github.com/Prajwal-Adhikari/Word-Counter">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=Word-Counter&theme=tokyonight" />
 </a>
-</p>
+<a href="https://github.com/Prajwal-Adhikari/BernoulliEquation">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=BernoulliEquation&theme=tokyonight" />
+</a>
+<a href="https://github.com/Prajwal-Adhikari/GPA-CALCULATOR">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=GPA-CALCULATOR&theme=tokyonight" />
+</a>
+<a href="https://github.com/Prajwal-Adhikari/HackerrankSolutions">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=HackerrankSolutions&theme=tokyonight" />
+</a>
+<br />
   
 ---
-
-<p align="center">
+  
+## GITHUB STATS 📈
+ 
 <a href="https://github.com/Prajwal-Adhikari">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-Adhikari&theme=tokyonight">
-</a>                         
-</p> 
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-Adhikari&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Prajwal-Adhikari">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Prajwal-Adhikari&show_icons=true&line_height=40&count_private=true&theme=tokyonight" alt="Prajwal's GitHub Stats" />
+</a>
+
+<br>
+<br>
+
+  ---
+  
+## CONTACT ME
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href = "https://www.linkedin.com/in/prajwal-adhikari-9026381a6/">
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+<a href = "https://twitter.com/Prajwal_PRZ">
+![Twitter](https://img.shields.io/badge/@Prajwal_PRZ-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+</a>
+<a href = "https://www.facebook.com/prajjwal.adhikari.31">
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+</a>
+<a href = "https://www.instagram.com/prazzolprz/">
+![Instagram](https://img.shields.io/badge/@prazzolprz-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+</a>
+ <a href = "https://github.com/Prajwal-Adhikari">
+ <img height="28em" src="https://img.shields.io/github/followers/Prajwal-Adhikari?label=Follow&style=social)](https://github.com/Prajwal-Adhikari">
+</a>
