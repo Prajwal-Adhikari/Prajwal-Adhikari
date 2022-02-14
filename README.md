@@ -49,8 +49,8 @@
 <a href="https://github.com/Prajwal-Adhikari/GPA-CALCULATOR">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=GPA-CALCULATOR&theme=tokyonight" />
 </a>
-<a href="https://github.com/Prajwal-Adhikari/HackerrankSolutions">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=HackerrankSolutions&theme=tokyonight" />
+<a href="https://github.com/Prajwal-Adhikari/Solidity">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=Solidity&theme=tokyonight" />
 </a>
 <br />
   
