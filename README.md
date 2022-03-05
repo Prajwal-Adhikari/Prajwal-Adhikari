@@ -11,7 +11,7 @@
 ---
 # BIO
 - 🏠 I'm from Makwanpur, Nepal 🇳🇵.
-- 🙌 I believe in Innovation through Collaboration -> In my way to open source contribution.
+- 🙌 I believe in Innovation through Collaboration -> On my way to open source contribution.
 - Highly fascinated by web technologies and blockchain development.
 - My motto of life is <b>Execution Matters More Than Ideas <b>
 <!-- # CONNECT WITH ME
