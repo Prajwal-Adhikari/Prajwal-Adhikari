@@ -42,8 +42,8 @@
 
 ## 📌 PINNED REPOSITORIES  
   
-<a href="https://github.com/Prajwal-Adhikari/Word-Counter">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=Word-Counter&theme=tokyonight" />
+<a href="https://github.com/Prajwal-Adhikari/Unilife">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=Unilife&theme=tokyonight" />
 </a>
 <a href="https://github.com/Prajwal-Adhikari/BernoulliEquation">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=BernoulliEquation&theme=tokyonight" />
