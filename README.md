@@ -2,7 +2,7 @@
 <h3 align = "center"> Learner | Developer | Tech enthusiast </h3>
 
 <p align="center">
-  <img src="https://github.com/Prajwal-Adhikari/Prajwal-Adhikari/blob/main/pp.jpg">
+  <img width="400px" height="400px" src="https://github.com/Prajwal-Adhikari/Prajwal-Adhikari/blob/main/pp.jpg">
 </p>
 
 
