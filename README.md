@@ -1,9 +1,10 @@
 <h1 align = "center"> Hi 👋 I am Prajwal Adhikari. </h1>
 <h3 align = "center"> Learner | Developer | Tech enthusiast </h3>
 
+<p align="center">
+  <img src="https://github.com/Prajwal-Adhikari/Prajwal-Adhikari/blob/main/pp.jpg">
+</p>
 
-  
-<p align="center" <a href="https://pbs.twimg.com/profile_images/1405046989927051268/u8XhFEGT_400x400.jpg/" target="_blank">
 
 </a> </p>
 <p align="center">Either you run the code or the code runs you. :computer: </p>
