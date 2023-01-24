@@ -43,18 +43,25 @@
 
 ## 📌 PINNED REPOSITORIES  
   
+
+ <a href="https://github.com/Prajwal-Adhikari/Chillar">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=Chillar&theme=tokyonight" />
+</a>
+  
+
 <a href="https://github.com/Prajwal-Adhikari/Unilife">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=Unilife&theme=tokyonight" />
 </a>
-<a href="https://github.com/Prajwal-Adhikari/BernoulliEquation">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=BernoulliEquation&theme=tokyonight" />
+
+<a href="https://github.com/BaaghChaal">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=BaghChal&theme=tokyonight" />
 </a>
-<a href="https://github.com/Prajwal-Adhikari/GPA-CALCULATOR">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=GPA-CALCULATOR&theme=tokyonight" />
-</a>
+  
 <a href="https://github.com/Prajwal-Adhikari/Solidity">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-Adhikari&repo=Solidity&theme=tokyonight" />
 </a>
+
+
 <br />
   
 ---
